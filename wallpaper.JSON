@@ -3,74 +3,74 @@
     {
       "author": "Andrea Panico",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N1.jpg",
-      "name": "N1",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N1_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N1_thumb.jpg",
+      "name": "N1"
     },
     {
       "author": "Andrea Panico",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N2.jpg",
-      "name": "N2",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N2_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N2_thumb.jpg",
+      "name": "N2"
     },
     {
       "author": "m.i.n.a.r.",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N3.jpg",
-      "name":" N3",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N3_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N3_thumb.jpg",
+      "name": "N3"
     },
     {
       "author": "Andrea Panico",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N4.jpg",
-      "name":" N4",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N4_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N4_thumb.jpg",
+      "name":" N4"
     },
     {
       "author": "Andrea Panico",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N5.jpg",
-      "name":" N5",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N5_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N5_thumb.jpg",
+      "name": "N5"
     },
     {
       "author": "Trianglify",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N6.jpg",
-      "name":" N6",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N6_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N6_thumb.jpg",
+      "name": "N6"
     },
     {
       "author": "Trianglify",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N7.jpg",
-      "name":" N7",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N7_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N7_thumb.jpg",
+      "name": "N7"
     },
     {
       "author": "Andrea Panico",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N8.jpg",
-      "name":" N8",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N8_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N8_thumb.jpg",
+      "name": "N8"
     },
     {
       "author": "m.i.n.a.r.",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N9.jpg",
-      "name":" N9",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N9_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N9_thumb.jpg",
+      "name": "N9"
     },
     {
       "author": "Trianglify",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N10.jpg",
-      "name":" N10",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N10_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N10_thumb.jpg",
+      "name": "N10"
     },
     {
       "author": "m.i.n.a.r.",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N11.jpg",
-      "name":" N11",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N11_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N11_thumb.jpg",
+      "name": "N11"
     },
     {
       "author": "Andrea Panico",
       "url": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N12.jpg",
-      "name":" N12",
-      "thumbnail": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N12_thumb.jpg"
+      "thumbUrl": "https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N12_thumb.jpg",
+      "name": "N12"
     }
   ]
 }
