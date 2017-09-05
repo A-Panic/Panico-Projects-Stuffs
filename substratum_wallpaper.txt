@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<substratum>
+    <wallpaper id="Wall_1">
+        <link>https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N15.jpg</link>
+        <preview>https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N15_thumb.jpg</preview>
+    </wallpaper>
+    <wallpaper id="Wall_2">
+        <link>https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N16.jpg</link>
+        <preview>https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N16_thumb.jpg</preview>
+    </wallpaper>
+    <wallpaper id="Wall_3">
+        <link>https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N12.jpg</link>
+        <preview>https://raw.githubusercontent.com/A-Panic/Talitha-wallpapers/master/N12_thumb.jpg</preview>
+    </wallpaper>
+</substratum>
